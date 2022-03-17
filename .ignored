@@ -1,5 +1,6 @@
 # IntelliJ project files
-*/*.iml
+*.iml
 /target/
 /.gitignore
 /.idea/
+我是master
